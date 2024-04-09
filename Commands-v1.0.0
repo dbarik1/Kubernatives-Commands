@@ -1,1 +1,4 @@
-Sneha balaga
+How to get the namespaces in Kubernatives ?
+kubectl get namespaces
+OR
+Kubectl get ns
